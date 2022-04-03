@@ -1,0 +1,19 @@
+body {
+  background-image: url("../odin-recipes/images/main_image.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  text-decoration: none;
+  color: brown;
+}
+h1 {
+  font-size: 60px;
+}
+a:hover {
+  color: red;
+}
+h3 {
+  font-size: 40px;
+}
+ul li {
+  font-size: large;
+}
